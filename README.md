@@ -61,7 +61,7 @@ The Part 3 graph (`small.txt`, `whole.txt`) is **not in the zip**. It is downloa
 
 ---
 
-## Part 1 — Clustering (40 Marks)
+## Part 1 — Clustering
 
 ### Functions implemented
 | Function | Description |
@@ -83,7 +83,7 @@ The Part 3 graph (`small.txt`, `whole.txt`) is **not in the zip**. It is downloa
 
 ---
 
-## Part 2 — Web Search Engine (40 Marks)
+## Part 2 — Web Search Engine
 
 ### Class hierarchy
 ```
@@ -112,7 +112,7 @@ All 11 outputs match `answers.txt` exactly.
 
 ---
 
-## Part 3 — PageRank on Spark (40 Marks)
+## Part 3 — PageRank on Spark
 
 $$r^{(t)} = \frac{1-\beta}{n}\mathbf{1} + \beta M r^{(t-1)}, \quad \beta=0.8, \quad 40 \text{ iterations}$$
 
